@@ -4,10 +4,10 @@
   "description": "## Laboratorio de Testing",
   "main": "index.js",
   "directories": {
-    "test": "tests"
+    "test": "test"
   },
   "scripts": {
-     "test": "./node_modules/.bin/mocha --reporter spec"
+    "test": "/usr/local/bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
