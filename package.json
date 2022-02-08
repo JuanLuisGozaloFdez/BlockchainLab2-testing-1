@@ -1,13 +1,19 @@
 {
-  "name": "blockchainlab2-testing-1",
+  "name": "blockchainlab2-testing-demotdd",
   "version": "1.0.0",
   "description": "## Laboratorio de Testing",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  },
   "scripts": {
-    "test": "/usr/local/bin/mocha --reporter spec"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -18,9 +24,5 @@
   "bugs": {
     "url": "https://github.com/JuanLuisGozaloFdez/BlockChainLab2-Testing-1/issues"
   },
-  "homepage": "https://github.com/JuanLuisGozaloFdez/BlockChainLab2-Testing-1#readme",
-  "dependencies": {
-    "chai": "^4.3.6",
-    "mocha": "^9.2.0"
-  }
+  "homepage": "https://github.com/JuanLuisGozaloFdez/BlockChainLab2-Testing-1#readme"
 }
