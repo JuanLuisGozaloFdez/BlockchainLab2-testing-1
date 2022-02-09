@@ -1,5 +1,5 @@
 {
-  "name": "blockchainlab2-testing-demotdd",
+  "name": "blockchainlab2-testing-0-demotdd",
   "version": "1.0.0",
   "description": "## Laboratorio de Testing",
   "main": "index.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuanLuisGozaloFdez/BlockChainLab2-Testing-1.git"
+    "url": "git+https://github.com/JuanLuisGozaloFdez/blockchainlab2-testing-0-demotdd.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuanLuisGozaloFdez/BlockChainLab2-Testing-1/issues"
+    "url": "https://github.com/JuanLuisGozaloFdez/blockchainlab2-testing-0-demotdd/issues"
   },
-  "homepage": "https://github.com/JuanLuisGozaloFdez/BlockChainLab2-Testing-1#readme"
+  "homepage": "https://github.com/JuanLuisGozaloFdez/blockchainlab2-testing-0-demotdd#readme"
 }
