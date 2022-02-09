@@ -2,7 +2,7 @@
 
 ## Laboratorio de Testing
 
-Mostramos un ejemplo de Test-Driven development
+Mostramos un ejemplo de Test-Driven Development usando un ejemplo simple de Calculadora en JavaScript
 
 ## Requerimientos previos
 
@@ -11,16 +11,6 @@ Mostramos un ejemplo de Test-Driven development
   - instalar express
   - instalar chai
   - instalar mocha
-
-## Cómo empezar
-
-Lanzar la aplicación usando Node.js
-
-```bash
-node index.js
-```
-
-Ahora desde el navegador acceder a localhost:5000 para ejecutarla
 
 ## Test
 
