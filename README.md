@@ -8,9 +8,14 @@ Mostramos un ejemplo de Test-Driven Development usando un ejemplo simple de Calc
 
 - Node.js
 - npm
-  - instalar express
   - instalar chai
   - instalar mocha
+
+```bash
+npm init
+npm install mocha
+npm install chai
+```
 
 ## Test
 
