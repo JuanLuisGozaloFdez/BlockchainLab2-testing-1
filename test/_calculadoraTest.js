@@ -7,7 +7,12 @@ describe("Paquete Test de Calculadora", function() {
         it("Suma los números 4 y 7", function() {
             var resultado = calculadora.suma(4,7);
 
-            expect(resultado).to.equal(1221); // valor erroneo a proposito para que falle el test
+            expect(resultado).to.equal(11);
+        });
+        it("Suma los números -1 y -2", function() {
+            var resultado = calculadora.suma(-1,-2);
+
+            expect(resultado).to.equal(-3);
         });
     });
 
@@ -32,6 +37,11 @@ describe("Paquete Test de Calculadora", function() {
             var resultado = calculadora.divide(8,4);
 
             expect(resultado).to.equal(2);
+        });
+        it("Divide los números 4 y 0", function() {
+            var resultado = calculadora.divide(4,0);
+
+            expect(resultado).to.equal(Infinity);
         });
     });
 
