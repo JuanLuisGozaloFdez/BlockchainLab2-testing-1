@@ -16,7 +16,9 @@ Mostramos un ejemplo de Test-Driven development
 
 Lanzar la aplicación usando Node.js
 
->``$> node index.js``
+```bash
+node index.js
+```
 
 Ahora desde el navegador acceder a localhost:5000 para ejecutarla
 
@@ -24,4 +26,6 @@ Ahora desde el navegador acceder a localhost:5000 para ejecutarla
 
 Desde la carpeta raiz del proyecto, ejecutar
 
-- npm test
+```bash
+npm test
+```
